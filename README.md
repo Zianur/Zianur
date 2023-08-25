@@ -1,4 +1,4 @@
-![logo](https://github.com/Zianur/Zianur/blob/main/zian-3.jpg)
+![logo](https://github.com/Zianur/Zianur/blob/main/Zian%20Background%20Iamge.jpg)
 <h1 align="center">Hi 👋, I'm MD Zianur Rahman</h1>
 <h3 align="center">I am a passionate Software Developer from Bangladesh</h3>
 
