@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **mdzianurjoy@gmail.com**
+- 📫 How to reach me **(https://md-zianur-rahman-portfolio.web.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
